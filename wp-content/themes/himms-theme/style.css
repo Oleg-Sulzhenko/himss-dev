@@ -1009,3 +1009,19 @@ footer .footer-links-menu ul li:nth-child(2n){
 .grey-block:nth-child(10){
     background-position: -1664px 22px;
 }
+
+
+.audience-nwe-page-content div{
+    border-bottom: #DDE0E0 solid 2px;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+    font-size: 36px;
+}
+.audience-nwe-page-content div div{
+    width: 30%;
+    float: left;
+}
+.audience-nwe-page-content div span{
+    font-size: 18px;
+    font-style: italic;
+}
