@@ -1040,4 +1040,5 @@ footer .footer-links-menu ul li:nth-child(2n){
     font-size: 18px;
     font-style: italic;
     margin: 8px 0 0;
+    text-transform: none;
 }
