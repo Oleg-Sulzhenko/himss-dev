@@ -1026,6 +1026,8 @@ footer .footer-links-menu ul li:nth-child(2n){
     float: left;
     font-size: 36px;
     text-align: right;
+    padding-right: 24px;
+    line-height: 42px;
 }
 .audience-nwe-page-content div span.blue{
     font-size: 36px;
